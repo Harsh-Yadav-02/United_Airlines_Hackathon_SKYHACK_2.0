@@ -1,4 +1,4 @@
-# Team Two Neurons [Winner] <br>
+# Team Two Neurons [Winner🏆] <br>
 ## Tech Stack Used
 
 <div style="display: flex; align-items: center; gap: 20px; background-color: white; padding: 10px; border-radius: 8px;">

@@ -29,7 +29,7 @@
 
 </div> <br> <br>
 -> Datasets folder is empty, you can download all the files used from here - https://drive.google.com/drive/folders/1wh9xaQsf6twaIicVv1dqM0ur8dDGj0rA?usp=sharing <br><br>
--> Presentation is also uploaded in the link given below (Team-Two_Neurons.pdf)
+-> Presentation is also uploaded in the link given above (Team-Two_Neurons.pdf)
 
 ![image](https://github.com/user-attachments/assets/a16c8423-b84c-4ba9-be71-bfd05e98f3c3)
 

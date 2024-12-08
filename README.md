@@ -32,6 +32,7 @@
 -> Presentation is also uploaded in the link given above (Team-Two_Neurons.pdf)
 
 ![image](https://github.com/user-attachments/assets/a16c8423-b84c-4ba9-be71-bfd05e98f3c3)
+![IMG-20241105-WA0037](https://github.com/user-attachments/assets/936ecad7-be52-4c2d-9ead-e36d3f984a61)
 
 
 

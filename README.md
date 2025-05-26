@@ -28,6 +28,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="45"/>
 
 </div> <br> <br>
+-> Competition Website: https://www.hackerearth.com/challenges/hackathon/skyhack-3/
 -> Datasets folder is empty, you can download all the files used from here - https://drive.google.com/drive/folders/1wh9xaQsf6twaIicVv1dqM0ur8dDGj0rA?usp=sharing <br><br>
 -> Presentation is also uploaded in the link given above (Team-Two_Neurons.pdf)
 
